@@ -31,7 +31,7 @@ public class Lwhc {
                     String pj=djxxpre+"'"+gsmc[i]+"','"+tyshxydm[i]+"','"+khmc[i]+"','"+zjhm[i]+"',"+djxxend;
                 System.out.println(pj);
                 System.out.println();
-                System.out.println("--test--");
+                System.out.println("--test123--");
 
         }
 

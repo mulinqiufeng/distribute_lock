@@ -1,10 +1,10 @@
 import sun.applet.Main;
 
 /**
- * @PackageName:PACKAGE_NAME
- * @className:${Name}
- * @Description:
- * @author:zhj
+ * @PackageName:测试
+ * @className:测试
+ * @Description:123
+ * @author:zhj1
  * @Date:2022/5/1411:06
  */
 public class Lwhc {
@@ -31,7 +31,7 @@ public class Lwhc {
                     String pj=djxxpre+"'"+gsmc[i]+"','"+tyshxydm[i]+"','"+khmc[i]+"','"+zjhm[i]+"',"+djxxend;
                 System.out.println(pj);
                 System.out.println();
-                System.out.println();
+                System.out.println("----");
 
         }
 
